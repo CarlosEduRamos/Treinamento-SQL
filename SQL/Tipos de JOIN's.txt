@@ -1,0 +1,16 @@
+Tipos de JOIN's
+
+INTERCESSÃO = INNER
+Traz os dados que estão contidos em ambas as tabelas.
+
+FORA DA INTERCESSÃO = OUTER
+Traz os dados que não tem relação entre as tabelas.
+
+LEFT JOIN
+Traz os dados relacionados entre ambas as tabela e o conteudo da tabela a esquerda.
+
+RIGHT JOIN
+Traz os dados relacionados entre ambas as tabela e o conteudo da tabela a direita.
+
+FULL JOIN
+Traz os todos os dados de ambas as tabelas.
